@@ -1,6 +1,6 @@
 # Выпускной проект
 
-## Часть 1: [Банки — анализ оттока клиентов, cегментация пользователей]()
+## Часть 1: [Банки — анализ оттока клиентов, cегментация пользователей](https://github.com/DedovaMA/YandexPracticum/blob/main/Project_13_final/13_1.%20Выпускной%20проект.ipynb)
 
 **Задачи проекта:**
 
@@ -19,7 +19,7 @@
 `Python`, `Pandas`, `Matplotlib`, `Seaborn`, `scipy`, `проверка статистических гипотез`
 
 
-## Часть 2: [SQL]()
+## Часть 2: [SQL](https://github.com/DedovaMA/YandexPracticum/blob/main/Project_13_final/13_2.%20Выпускной%20проект%20SQL.ipynb)
 
 **Задачи проекта:**
 
